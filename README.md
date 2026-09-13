@@ -1,16 +1,22 @@
-## Hi there 👋
+ 
 
-<!--
-**LOVERSP4CE/LOVERSP4CE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <!-- ==================== 1. THE TOP LANDSCAPE BANNER ==================== -->
+  <!-- This keeps your giant 1000px banner locked perfectly at the absolute top -->
+  <img src="https://i.postimg.cc/YCg6kbFG/f63775a46ccd5af207ebac00ab29b7ce-2.jpg" width="560" alt="top banner" />
+  
+  <div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <!-- ==================== 2. ANIMATED TYPING GIF SECTION ==================== -->
+  <!-- Replace the link inside src="..." with the URL of your typing GIF -->
+  <img src="https://i.postimg.cc/QxZNwmX8/Text-Studio-Typewriter.gif" width="200" alt="animated typing text" />
+ 
+ 
+  
+  
+  
+  
+
+  
