@@ -15,7 +15,7 @@
 
   <!-- ==================== 2. CLICKABLE ATABOOK TEXT IMAGE ==================== -->
   <!-- PASTE YOUR DESTINATION WEBSITE URL INSIDE THE HREF QUOTES -->
-  <a href="moonlightbridge.atabook.org">
+  <a href="https://moonlightbridge.atabook.org">
     <img src="https://i.postimg.cc/fb7chjLm/1000001228-removebg-preview.png" width="300" alt="ATABOOK" />
   </a>
 
