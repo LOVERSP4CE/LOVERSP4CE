@@ -62,8 +62,8 @@
  homophobic/transphobic <br>
  insensitive <br>
  problematic <br>
- ady/adelle
-    
+ ady/adelle <br>
+ sherry   
   </details>
 
 </div>
