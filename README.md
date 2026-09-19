@@ -10,7 +10,7 @@
 
 <!-- SECTION 2: WIDESCREEN CINEMATIC BLOCKS -->
 <p align="center">
-  <img src="https://i.postimg.cc/xCtc6BGT/Untitled80-20260919142118.png" width="85%" alt="Main Scene" />
+  <img src="https://i.postimg.cc/652jrKtK/Untitled80-20260919154624.png" width="85%" alt="Main Scene" />
 </p>
 
 <!-- ✨ NEW: ANIMATED TEXT / PNG TEXT SECTION ✨ -->
