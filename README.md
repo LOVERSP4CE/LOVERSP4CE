@@ -16,7 +16,7 @@
 <!-- ✨ NEW: ANIMATED TEXT / PNG TEXT SECTION ✨ -->
 <p align="center">
   <!-- First Text Graphic/GIF (e.g., Glitch Text, Name Animation, or Subtitle) -->
-  <img src="https://i.postimg.cc/pX7nbNwK/Text-Studio-Typewriter-(4).gif" width="60%" alt="Animated Text 1" />
+  <img src="https://i.postimg.cc/pX7nbNwK/Text-Studio-Typewriter-(4).gif" width="90%" alt="Animated Text 1" />
   <br/>
 
 
@@ -40,7 +40,7 @@
   
   <!-- Clickable Second Text Graphic: Redirects when tapped -->
   <a href="https://moonlightbridge.atabook.org" target="_blank">
-    <img src="https://i.postimg.cc/903VcpBd/0000-(1).png" width="50%%" alt="Clickable Status" />
+    <img src="https://i.postimg.cc/903VcpBd/0000-(1).png" width="60%" alt="Clickable Status" />
   </a>
 </p>
 
