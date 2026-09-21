@@ -1,52 +1,29 @@
+<div align="center">
 
-<!-- SECTION 1: THE DEFINITION TRIPTYCH -->
-<p align="center">
-  <img src="https://i.postimg.cc/MTvvrd95/1000001315-removebg-preview.png" width="31%" alt="Definition 1" />
-  <img src="https://i.postimg.cc/3RsJf74h/1000001316-removebg-preview-(1).png" width="25%" alt="Definition 2" />
-  <img src="https://i.postimg.cc/g05YrdDb/1000001317-removebg-preview.png" width="31%" alt="Definition 3" />
-</p>
+  <!-- Banner Image -->
+  <img src="https://i.postimg.cc/NMWGvPTB/1000001408-removebg-preview.png" alt="Makoto Yuki Banner" width="90%" max-width="800px" />
 
-<h2 align="center">─── TERMINAL MEMORIES ───</h2>
+  <br />
+  <br />
 
-<!-- SECTION 2: WIDESCREEN CINEMATIC BLOCKS -->
-<p align="center">
-  <img src="https://i.postimg.cc/652jrKtK/Untitled80-20260919154624.png" width="85%" alt="Main Scene" />
-</p>
-
-<!-- ✨ NEW: ANIMATED TEXT / PNG TEXT SECTION ✨ -->
-<p align="center">
-  <!-- First Text Graphic/GIF (e.g., Glitch Text, Name Animation, or Subtitle) -->
-  <img src="https://i.postimg.cc/pX7nbNwK/Text-Studio-Typewriter-(4).gif" width="90%" alt="Animated Text 1" />
-  <br/>
-
-
-</p>
-
----
-
-<!-- SECTION 3: THE COMPACT INTEGRATION MATRIX -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Visual Column -->
-    <td width="40%" valign="middle" align="center">
-      <img src="https://i.postimg.cc/SxH9b0MR/1000001336-removebg-preview.png" width="60%" alt="Matrix Overlay" />
-      <br/><br/>
-      <img src="https://i.postimg.cc/GhqNQKsH/0000-(2).png" width="90%" alt="Neon Flora" />
-    </td>
-    <!-- Real-time Stat Column -->
-    <td width="60%" valign="middle" align="center">
-      <img src="https://i.postimg.cc/G2XhrY5F/1000001338-removebg-preview.png" alt="Stats" width="45%" />
-      <br/><br/>
+ ( ˆ𐃷ˆ) .ᐟ.ᐟ
   
-  <!-- Clickable Second Text Graphic: Redirects when tapped -->
-  <a href="https://moonlightbridge.atabook.org" target="_blank">
-    <img src="https://i.postimg.cc/903VcpBd/0000-(1).png" width="60%" alt="Clickable Status" />
-  </a>
-</p>
+  <!-- Navigation Links -->
+  <h3>
+    <a href="YOUR_ATA_LINK_HERE">ata</a>
+    &nbsp;&nbsp;×&nbsp;&nbsp;
+    <a href="YOUR_STRWPG_LINK_HERE">strwpg</a>
+  </h3>
 
-    
- </td>
-  </tr>
-</table>
+  <br />
 
+  <!-- Expanding Dropdown Section -->
+  <details>
+    <summary style="cursor: pointer; font-size: 1.1em; font-weight: bold;">ᧉ t c  /  ხ y i</summary>
+    <br />
+    <p>
+      𓂃⋆.˚ <br> dni if you're below 13 please. and 20+ pls iwec ! aside all that, I'm very friendly and approachable, so if you're hesitating to approach me, just sign my ata along with your github name and areas, I'll approach you first !! also my strawpage is still coming soon, I'm sooo lazy to do it and I'm very busy T_T I'll do it on my free time. c+h is also enc even if it wasn't included on my name, unless it says dni or dniu~ I'm very strict regarding to that, you will be blocked otherwise. please be mindful of your own actions! better to be aware :D, I also have multiple styles and dwdw i don't copy~ I make my own styles because I hate copying / copycats. and please ask for permission if you're taking an inspo~ otherwise you'll be confronted by me or blocked !! if you want my other socials you can ask me directly for it ^_^, I also love listening to yaps but I'm so very bad when it comes to responding, sorri! avoid overyapping or making me your traumadump because i might ghost you yk~ unless we're close friends !! my social battery drains not exactly that fast but you'll notice signs like me responding dry after talking too much, or just be afk anyway. I use mostly persona skins but I have other fandoms as well. int especially persona fans pls ily/p.
+    </p>
+  </details>
 
+</div>
