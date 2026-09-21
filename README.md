@@ -10,7 +10,7 @@
   
   <!-- Navigation Links -->
   <h3>
-    <a href="YOUR_ATA_LINK_HERE">ata</a>
+    <a href="https://moonlightbridge.atabook.org">ata</a>
     &nbsp;&nbsp;×&nbsp;&nbsp;
     <a href="YOUR_STRWPG_LINK_HERE">strwpg</a>
   </h3>
