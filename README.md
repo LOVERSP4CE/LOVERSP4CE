@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Image -->
-  <img src="https://i.postimg.cc/NMWGvPTB/1000001408-removebg-preview.png" alt="Makoto Yuki Banner" width="90%" max-width="800px" />
+  <img src="https://i.postimg.cc/NMWGvPTB/1000001408-removebg-preview.png" alt="Makoto Yuki Banner" width="100%" max-width="800px" />
 
   <br />
   <br />
