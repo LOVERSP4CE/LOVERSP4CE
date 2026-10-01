@@ -6,7 +6,7 @@
 
 <!-- PANEL 1: MAKOTO (BLUE/TEAL PIC) -->
 <!-- Replace YOUR_MAKOTO_IMAGE_URL with the link to image_EYBS98.png -->
-<img src="https://i.postimg.cc/26JBFg95/Untitled1-20261001122910.png" width="80%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
+<img src="https://i.postimg.cc/26JBFg95/Untitled1-20261001122910.png" width="85%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
 <p><kbd>✦ "..." ✦</kbd></p>
 
 <br>
@@ -17,7 +17,7 @@
 
 <!-- PANEL 2: RYOJI / DEATH (MASK PIC) -->
 <!-- Replace YOUR_RYOJI_IMAGE_URL with the link to image_0kjLWH.png -->
-<img src="https://i.postimg.cc/L51xFcJS/Untitled2-20261001122730.png" width="80%" alt="Ryoji" style="border-radius: 6px; border: 2px solid #5271ff;"/>
+<img src="https://i.postimg.cc/L51xFcJS/Untitled2-20261001122730.png" width="85%" alt="Ryoji" style="border-radius: 6px; border: 2px solid #5271ff;"/>
 <p><kbd>✦ "you're beautiful ..." ✦</kbd></p>
 
 
