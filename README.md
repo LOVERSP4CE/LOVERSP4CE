@@ -20,7 +20,7 @@
 <img src="https://i.postimg.cc/L51xFcJS/Untitled2-20261001122730.png" width="85%" alt="Ryoji" style="border-radius: 6px; border: 2px solid #5271ff;"/>
 <p><kbd>✦ "you're beautiful ..." ✦</kbd></p>
 
-## Reflections - The Neighborhood 🎵
+## Reflections - The Neighbourhood 🎵
 
 
 
